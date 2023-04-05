@@ -1,6 +1,3 @@
-# SoloLearn-Java
-Practice exercises for Sololearn Java course.
-
 # SoloLearn-Java #
 
 ## Description
